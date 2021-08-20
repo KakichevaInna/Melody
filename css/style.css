@@ -103,6 +103,9 @@ body {
   font-weight: normal;
   color: #635854;
 }
+path.current-floor {
+  opacity: 1;
+}
 .counter {
   color: #635854;
   font-size: 124px;
